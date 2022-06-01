@@ -1,5 +1,5 @@
 {
-     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/sanaos/mmyyds/main/sprider77.jar",
+     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan_maoTV/main/sprider77.jar",
      "sites": [
          {
             "key":"csp_biubiu_jable",
@@ -9,17 +9,17 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sanaos/mmyyds/main/XBiubiu/jable.json"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan_maoTV/main/XBiubiu/jable.json"
         },
          {
             "key":"csp_biubiu_GAOAA",
-            "name":"🥒GAOAA(XB)",
+            "name":"??GAOAA(XB)",
             "type":3,
             "api":"csp_XBiubiu",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sanaos/mmyyds/main/XBiubiu/gaoaa.json"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan_maoTV/main/XBiubiu/gaoaa.json"
         },
          {
             "key": "csp_biubiu_av01",
@@ -29,11 +29,11 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/sanaos/mmyyds/main/XBiubiu/AV01.txt"
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/drowning1213/xuan_maoTV/main/XBiubiu/AV01.txt"
         },
          {
             "key":"csp_77",
-            "name":"🚀77〔SP〕",
+            "name":"??77〔SP〕",
             "type":3,
             "api":"csp_Kunyu77",
             "searchable":1,
@@ -42,7 +42,7 @@
         },
          {
             "key":"csp_蓝光影院",
-            "name":"🚀蓝光影院〔SP〕",
+            "name":"??蓝光影院〔SP〕",
             "type":3,
             "api":"csp_Lgyy",
             "searchable":1,
@@ -51,7 +51,7 @@
         },
          {
             "key":"csp_在线之家",
-            "name":"🚀在线之家〔SP〕",
+            "name":"??在线之家〔SP〕",
             "type":3,
             "api":"csp_Zxzj",
             "searchable":1,
@@ -60,7 +60,7 @@
         },
          {
             "key":"csp_厂长资源",
-            "name":"🚀厂长资源(SP)",
+            "name":"??厂长资源(SP)",
             "type":3,
             "api":"csp_CZSPP",
             "searchable":1,
@@ -69,7 +69,7 @@
         },
          {
             "key":"csp_低端影视",
-            "name":"🚀低端影视(SP)",
+            "name":"??低端影视(SP)",
             "type":3,
             "api":"csp_DiDuan",
             "searchable":1,
@@ -78,7 +78,7 @@
         },
          {
             "key":"csp_喵狸盘搜",
-            "name":"🚀喵狸盘搜（仅支持搜索）",
+            "name":"??喵狸盘搜（仅支持搜索）",
             "type":3,
             "api":"csp_AliPanSou",
             "searchable":1,
@@ -87,7 +87,7 @@
         },
          {
             "key":"csp_饭团",
-            "name":"🚀饭团〔SP〕",
+            "name":"??饭团〔SP〕",
             "type":3,
             "api":"csp_Fantuan",
             "searchable":1,
@@ -96,7 +96,7 @@
         },
          {
             "key":"csp_纸条",
-            "name":"🚀纸条〔SP〕",
+            "name":"??纸条〔SP〕",
             "type":3,
             "api":"csp_GitCafe",
             "searchable":1,
@@ -105,7 +105,7 @@
         },
          {
             "key":"csp_奇粹",
-            "name":"🚀奇粹(SP)",
+            "name":"??奇粹(SP)",
             "type":3,
             "api":"csp_Qicui",
             "searchable":1,
@@ -115,7 +115,7 @@
         },
          {
             "key":"csp_泥巴",
-            "name":"🚀泥巴(SP)",
+            "name":"??泥巴(SP)",
             "type":3,
             "api":"csp_Nbys",
             "searchable":1,
@@ -125,7 +125,7 @@
         },
          {
             "key":"csp_Cokemv",
-            "name":"🚀Cokemv(SP)",
+            "name":"??Cokemv(SP)",
             "type":3,
             "api":"csp_Cokemv",
             "searchable":1,
@@ -135,7 +135,7 @@
         },
          {
             "key":"csp_Auete",
-            "name":"🚀Auete(SP)",
+            "name":"??Auete(SP)",
             "type":3,
             "api":"csp_Auete",
             "searchable":1,
@@ -447,7 +447,7 @@
                  {
                      "name": "redirect",
                      "urls": [
-                         "proxy://do=live&type=txt&ext=aHR0cDovL3R2Lm54b2cudG9wL20vZHMuaHRtbA==" 
+                         "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8=" 
                     ] 
                 } 
             ] 
@@ -1361,4 +1361,4 @@
         "cdnjs.hnfenxun.com",
          "cms.qdwght.com"
     ]
-}                                                                                                            
+}
