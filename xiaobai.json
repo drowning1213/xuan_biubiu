@@ -402,8 +402,8 @@
             "key":"csp_xml_gc",
             "name":"官采资源",
             "type":1,
-             "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
-             /* 诺讯资源 */"playUrl":"parse:自动解析",
+            "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
+            "playUrl":"parse:自动解析",
             "categories": [
                 "国产剧",
                 "港台剧",
