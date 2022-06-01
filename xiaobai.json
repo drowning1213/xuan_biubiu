@@ -188,7 +188,7 @@
              "quickSearch": 1,
              "filterable": 0 
         },
-         //XPath {
+          {
             "key":"csp_xpath___利奥影视",
             "name":"利奥影视〔X〕",
             "type":3,
@@ -430,7 +430,7 @@
                 
             ]
         },
-         # // 推送功能扩展（需v2.1.0.Beta6及以上版本） // 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致 // 支持推送播放网盘链接 // https://github.com/catvod/CatVodTVSpider {
+         {
             "key":"push_agent",
             "name":"推送",
             "type":3,
@@ -438,7 +438,7 @@
             "searchable":0,
             "quickSearch":0,
             "filterable":0
-        } # 
+        }
     ],
      "lives": [
          {
